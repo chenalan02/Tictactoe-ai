@@ -6,3 +6,5 @@ Tictactoe can be interpreted as a search problem where we must consider all poss
 
 ## Template
 This was an assignment in which I built upon a template from the Harvard CS50 online course.It can be found at https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/
+
+![tictactoe ai](https://github.com/chenalan02/Tictactoe-ai-Harvard-cs50ai/blob/master/tictactoe%20ai.JPG)
